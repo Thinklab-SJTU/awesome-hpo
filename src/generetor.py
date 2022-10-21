@@ -36,7 +36,7 @@ def write_category(file, content, n, index, href):
 def write_content(file, content, path):
     for name in content.keys():
         if name == 'paper':
-            file.writelines("### [{}](#content)".format(path))
+            file.writelines("### [{}](#content)".format(path[:-1]))
             file.write('\n')
             file.write('\n')
             num = 0
@@ -57,8 +57,8 @@ def write_content(file, content, path):
                 file.write('\n')
                 file.write('\n')
             continue
-        path1 = path +'/' + name
-        write_content(file, content[name], path1)
+        path1 = path + name
+        write_content(file, content[name], path1+'/')
 
 
 def csv2md(csvFile, mdFile, header):
