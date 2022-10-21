@@ -58,6 +58,9 @@ def write_content(file, content, path):
                 file.write('\n')
             continue
         path1 = path + name
+        file.writelines("## [{}](#content)".format(path1))
+        file.write('\n')
+        file.write('\n')
         write_content(file, content[name], path1+'/')
 
 
