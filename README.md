@@ -82,7 +82,7 @@ We are looking for post-docs interested in machine learning especially for learn
 
     *Luo, Gang*
 
-4. **Hyperparameter optimization in?learning systems** Journal of Membrane Computing, 2019. [paper](https://link.springer.com/article/10.1007/s41965-019-00023-0)
+4. **Hyperparameter optimization in learning systems** Journal of Membrane Computing, 2019. [paper](https://link.springer.com/article/10.1007/s41965-019-00023-0)
 
     *Andonie, R{\\u{a}}zvan*
 
@@ -98,7 +98,7 @@ We are looking for post-docs interested in machine learning especially for learn
 
     *Del Buono, Nicoletta and Esposito, Flavia and Selicato, Laura*
 
-8. **Automated machine learning:?Review?of the state-of-the-art and opportunities for healthcare** Artificial intelligence in medicine, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0933365719310437)
+8. **Automated machine learning: Review of the state-of-the-art and opportunities for healthcare** Artificial intelligence in medicine, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0933365719310437)
 
     *Waring, Jonathan and Lindvall, Charlotta and Umeton, Renato*
 
@@ -214,7 +214,7 @@ We are looking for post-docs interested in machine learning especially for learn
 
     *Khalid, Rabiya and Javaid, Nadeem*
 
-2. **Evaluation of?hyperparameter optimization?in machine and deep learning methods for decoding imagined speech EEG** Sensors, 2020. [paper](https://www.mdpi.com/1424-8220/20/16/4629)
+2. **Evaluation of hyperparameter optimization in machine and deep learning methods for decoding imagined speech EEG** Sensors, 2020. [paper](https://www.mdpi.com/1424-8220/20/16/4629)
 
     *Cooney, Ciaran and Korik, Attila and Folli, Raffaella and Coyle, Damien*
 
