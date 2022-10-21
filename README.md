@@ -3,7 +3,7 @@ We would like to maintain a list of resources about Hyperparameter Optimization.
 
 We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ✨.
 
-*Maintained by members in SJTU-Thinklab: Haoran Liao, Wei Liu, Shuwan Feng and Junchi Yan.*
+*Maintained by members in SJTU-Thinklab: Wei Liu, Shuwan Feng and Junchi Yan.*
 
 We are looking for post-docs interested in machine learning especially for learning combinatorial solvers, dynamic graphs, and reinforcement learning. Please send your up-to-date resume via yanjunchi AT sjtu.edu.cn.
 
@@ -36,11 +36,11 @@ We are looking for post-docs interested in machine learning especially for learn
 
 1. **Algorithms for hyper-parameter optimization** NeurIPS, 2011. [journal](https://proceedings.neurips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf)
 
-    *Bergstra, James and Bardenet, R{\'e}mi and Bengio, Yoshua and K{\'e}gl, Bal{\'a}zs*
+    *Bergstra, James and Bardenet, R{\\'e}mi and Bengio, Yoshua and K{\\'e}gl, Bal{\\'a}zs*
 
 2. **Hyperparameter optimization in?learning systems** Journal of Membrane Computing, 2019. [journal](https://link.springer.com/article/10.1007/s41965-019-00023-0)
 
-    *Andonie, R{\u{a}}zvan*
+    *Andonie, R{\\u{a}}zvan*
 
 3. **Hyper-parameter optimization: A review of algorithms and applications** Arxiv, 2020. [journal](https://arxiv.org/pdf/2003.05689.pdf)
 
@@ -68,13 +68,13 @@ We are looking for post-docs interested in machine learning especially for learn
 
 1. **Algorithms for hyper-parameter optimization** NeurIPS, 2011. [journal](https://proceedings.neurips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf)
 
-    *Bergstra, James and Bardenet, R{\'e}mi and Bengio, Yoshua and K{\'e}gl, Bal{\'a}zs*
+    *Bergstra, James and Bardenet, R{\\'e}mi and Bengio, Yoshua and K{\\'e}gl, Bal{\\'a}zs*
 
 ### [Classical Optimization Technique/Bayesian Optimization](#content)
 
 1. **Algorithms for hyper-parameter optimization** NeurIPS, 2011. [journal](https://proceedings.neurips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf)
 
-    *Bergstra, James and Bardenet, R{\'e}mi and Bengio, Yoshua and K{\'e}gl, Bal{\'a}zs*
+    *Bergstra, James and Bardenet, R{\\'e}mi and Bengio, Yoshua and K{\\'e}gl, Bal{\\'a}zs*
 
 ## [Application](#content)
 
