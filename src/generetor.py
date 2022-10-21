@@ -36,9 +36,9 @@ def write_category(file, content, n, index, href):
 def write_content(file, content, path):
     for name in content.keys():
         if name == 'paper':
-            file.writelines("### [{}](#content)".format(path[:-1]))
-            file.write('\n')
-            file.write('\n')
+            # file.writelines("### [{}](#content)".format(path[:-1]))
+            # file.write('\n')
+            # file.write('\n')
             num = 0
             for paper in content[name]:
                 paper = [p.strip() for p in paper]
@@ -58,7 +58,7 @@ def write_content(file, content, path):
                 file.write('\n')
             continue
         path1 = path + name
-        file.writelines("## [{}](#content)".format(path1))
+        file.writelines("### [{}](#content)".format(path1))
         file.write('\n')
         file.write('\n')
         write_content(file, content[name], path1+'/')

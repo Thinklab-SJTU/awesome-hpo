@@ -32,8 +32,6 @@ We are looking for post-docs interested in machine learning especially for learn
 
 
 
-## [Survey](#content)
-
 ### [Survey](#content)
 
 1. **Algorithms for hyper-parameter optimization** NeurIPS, 2011. [journal](https://proceedings.neurips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf)
@@ -64,9 +62,7 @@ We are looking for post-docs interested in machine learning especially for learn
 
     *Bischl, Bernd and Binder, Martin and Lang, Michel and Pielok, Tobias and Richter, Jakob and Coors, Stefan and Thomas, Janek and Ullmann, Theresa and Becker, Marc and Boulesteix, Anne-Laure and others*
 
-## [Classical Optimization Technique](#content)
-
-## [Classical Optimization Technique/Survey](#content)
+### [Classical Optimization Technique](#content)
 
 ### [Classical Optimization Technique/Survey](#content)
 
@@ -74,15 +70,11 @@ We are looking for post-docs interested in machine learning especially for learn
 
     *Bergstra, James and Bardenet, R{\'e}mi and Bengio, Yoshua and K{\'e}gl, Bal{\'a}zs*
 
-## [Classical Optimization Technique/Bayesian Optimization](#content)
-
 ### [Classical Optimization Technique/Bayesian Optimization](#content)
 
 1. **Algorithms for hyper-parameter optimization** NeurIPS, 2011. [journal](https://proceedings.neurips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf)
 
     *Bergstra, James and Bardenet, R{\'e}mi and Bengio, Yoshua and K{\'e}gl, Bal{\'a}zs*
-
-## [Application](#content)
 
 ### [Application](#content)
 
