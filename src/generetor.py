@@ -57,8 +57,8 @@ def write_content(file, content, path):
                 file.write('\n')
                 file.write('\n')
             continue
-        path1 = path + name
-        write_content(file, content[name], path1+'/')
+        path1 = path +'/' + name
+        write_content(file, content[name], path1)
 
 
 def csv2md(csvFile, mdFile, header):
