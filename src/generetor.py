@@ -105,7 +105,7 @@ def csv2md(csvFile, mdFile, header):
     for c in classes:
         p = []
         for paper in raw_papers:
-            if c in paper[0]:
+            if c in [cls.strip() for cls in paper[0].split(";")]:
                 new_paper = copy.deepcopy(paper)
                 new_paper[0] = c
                 p.append(new_paper)

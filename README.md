@@ -34,31 +34,27 @@ We are looking for post-docs interested in machine learning especially for learn
 
 ## [Survey](#content)
 
-1. **Algorithms for hyper-parameter optimization** NeurIPS, 2011. [journal](https://proceedings.neurips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf)
-
-    *Bergstra, James and Bardenet, R{\\'e}mi and Bengio, Yoshua and K{\\'e}gl, Bal{\\'a}zs*
-
-2. **Hyperparameter optimization in?learning systems** Journal of Membrane Computing, 2019. [journal](https://link.springer.com/article/10.1007/s41965-019-00023-0)
+1. **Hyperparameter optimization in?learning systems** Journal of Membrane Computing, 2019. [journal](https://link.springer.com/article/10.1007/s41965-019-00023-0)
 
     *Andonie, R{\\u{a}}zvan*
 
-3. **Hyper-parameter optimization: A review of algorithms and applications** Arxiv, 2020. [journal](https://arxiv.org/pdf/2003.05689.pdf)
+2. **Hyper-parameter optimization: A review of algorithms and applications** Arxiv, 2020. [journal](https://arxiv.org/pdf/2003.05689.pdf)
 
     *Yu, Tong and Zhu, Hong*
 
-4. **On hyperparameter optimization of machine learning algorithms: Theory and practice** Neurocomputing, 2020. [journal](https://arxiv.org/pdf/2007.15745.pdf)
+3. **On hyperparameter optimization of machine learning algorithms: Theory and practice** Neurocomputing, 2020. [journal](https://arxiv.org/pdf/2007.15745.pdf)
 
     *Yang, Li and Shami, Abdallah*
 
-5. **A survey on hyperparameters optimization algorithms of forecasting models in smart grid** Sustainable Cities and Society, 2020. [journal](https://www.researchgate.net/profile/Nadeem-Javaid/publication/341464056_A_Survey_on_Hyperparameters_Optimization_Algorithms_of_Forecasting_Models_in_Smart_Grid/links/5ec2f1e192851c11a873ffbf/A-Survey-on-Hyperparameters-Optimization-Algorithms-of-Forecasting-Models-in-Smart-Grid.pdf)
+4. **A survey on hyperparameters optimization algorithms of forecasting models in smart grid** Sustainable Cities and Society, 2020. [journal](https://www.researchgate.net/profile/Nadeem-Javaid/publication/341464056_A_Survey_on_Hyperparameters_Optimization_Algorithms_of_Forecasting_Models_in_Smart_Grid/links/5ec2f1e192851c11a873ffbf/A-Survey-on-Hyperparameters-Optimization-Algorithms-of-Forecasting-Models-in-Smart-Grid.pdf)
 
     *Khalid, Rabiya and Javaid, Nadeem*
 
-6. **AutoML: A survey of the state-of-the-art** Knowledge-Based Systems, 2021. [journal](https://arxiv.org/pdf/1908.00709.pdf?arxiv.org)
+5. **AutoML: A survey of the state-of-the-art** Knowledge-Based Systems, 2021. [journal](https://arxiv.org/pdf/1908.00709.pdf?arxiv.org)
 
     *He, Xin and Zhao, Kaiyong and Chu, Xiaowen*
 
-7. **Hyperparameter optimization: Foundations, algorithms, best practices and open challenges** Arxiv, 2021. [journal](https://arxiv.org/pdf/2107.05847.pdf)
+6. **Hyperparameter optimization: Foundations, algorithms, best practices and open challenges** Arxiv, 2021. [journal](https://arxiv.org/pdf/2107.05847.pdf)
 
     *Bischl, Bernd and Binder, Martin and Lang, Michel and Pielok, Tobias and Richter, Jakob and Coors, Stefan and Thomas, Janek and Ullmann, Theresa and Becker, Marc and Boulesteix, Anne-Laure and others*
 
