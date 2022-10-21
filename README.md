@@ -32,7 +32,7 @@ We are looking for post-docs interested in machine learning especially for learn
 
 
 
-### [Survey/paper](#content)
+### [Survey/](#content)
 
 1. **Algorithms for hyper-parameter optimization** NeurIPS, 2011. [journal](https://proceedings.neurips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf)
 
@@ -62,19 +62,19 @@ We are looking for post-docs interested in machine learning especially for learn
 
     *Bischl, Bernd and Binder, Martin and Lang, Michel and Pielok, Tobias and Richter, Jakob and Coors, Stefan and Thomas, Janek and Ullmann, Theresa and Becker, Marc and Boulesteix, Anne-Laure and others*
 
-### [Classical Optimization Technique/Survey/paper](#content)
+### [Classical Optimization Technique/Survey/](#content)
 
 1. **Algorithms for hyper-parameter optimization** NeurIPS, 2011. [journal](https://proceedings.neurips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf)
 
     *Bergstra, James and Bardenet, R{\'e}mi and Bengio, Yoshua and K{\'e}gl, Bal{\'a}zs*
 
-### [Classical Optimization Technique/Bayesian Optimization/paper](#content)
+### [Classical Optimization Technique/Bayesian Optimization/](#content)
 
 1. **Algorithms for hyper-parameter optimization** NeurIPS, 2011. [journal](https://proceedings.neurips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf)
 
     *Bergstra, James and Bardenet, R{\'e}mi and Bengio, Yoshua and K{\'e}gl, Bal{\'a}zs*
 
-### [Application/paper](#content)
+### [Application/](#content)
 
 1. **A survey on hyperparameters optimization algorithms of forecasting models in smart grid** Sustainable Cities and Society, 2020. [journal](https://www.researchgate.net/profile/Nadeem-Javaid/publication/341464056_A_Survey_on_Hyperparameters_Optimization_Algorithms_of_Forecasting_Models_in_Smart_Grid/links/5ec2f1e192851c11a873ffbf/A-Survey-on-Hyperparameters-Optimization-Algorithms-of-Forecasting-Models-in-Smart-Grid.pdf)
 
